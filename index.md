@@ -12,7 +12,7 @@
 <img src="images/habitacio_blender_Oq84sDEDT8.png?raw=true"/>
 
 ---
-[Drac en blender](/pdf/sample_presentation.pdf)
+[Drac en blender](/diseny_3d/drac)
 <img src="images/drac_blender_UqaLt11KDg.png?raw=true"/>
 
 --
