@@ -8,7 +8,7 @@
 <img src="images/cadira_blender_yi0Rcdqtsc.png?raw=true"/>
 
 ---
-[Habitacio en blender]
+[Habitacio en blender](/diseny_3d/habitacio)
 <img src="images/habitacio_blender_Oq84sDEDT8.png?raw=true"/>
 
 ---
